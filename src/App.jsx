@@ -606,7 +606,7 @@ const PricingSection = () => {
     },
     {
       name: 'Enterprise',
-      price,
+      price: 0,
       period: 'Индивидуально',
       description: 'Для крупных организаций',
       features: ['White-label', 'Выделенная поддержка', 'Кастомное обучение AI', 'SLA гарантии'],
